@@ -1,0 +1,1 @@
+<?php /**PATH /Applications/www/Jeenish/todos/resources/views/delete.blade.php ENDPATH**/ ?>
